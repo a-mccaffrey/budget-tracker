@@ -19,7 +19,7 @@
     "url": "git+https://github.com/a-mccaffrey/budget-tracker.git"
   },
   "author": "Aisling McCaffrey",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/a-mccaffrey/budget-tracker/issues"
   },
