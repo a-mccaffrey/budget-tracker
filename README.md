@@ -4,7 +4,7 @@
 
 ## Description
 
-A fitness tracker for following your workouts with handy built-in tables and data recollection. Deployed on heroku with MongoDB.
+A budget tracker for travellers who want to be able to access their budget both online and offline. Deployed on heroku with MongoDB.
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@ A fitness tracker for following your workouts with handy built-in tables and dat
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/a-mccaffrey/fitness-tracker.git`
+- Clone this repo to your local machine using `https://github.com/a-mccaffrey/budget-tracker.git`
 
 ### Setup
 
@@ -34,7 +34,7 @@ $ npm install
 
 ### What it should look like
 
-![Screenshot](./public/assets/screenshot.png)
+![Screenshot](./public/images/screenshot.png)
 
 ## Usage
 
@@ -42,8 +42,7 @@ Make sure you're connected to MongoDB on your machine if you want to use it loca
 
 You can also visit the deployed application on Heroku at: 
 
-https://hidden-sea-11352.herokuapp.com/
-
+https://protected-reaches-47507.herokuapp.com/
 
 ## License
 
@@ -60,7 +59,7 @@ This project is under the MIT license. For full license information, please [cli
     - 🍴 Fork this repo!
 
 - **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/a-mccaffrey/fitness-tracker.git`
+    - 👯 Clone this repo to your local machine using `https://github.com/a-mccaffrey/budget-tracker.git`
 
 ### Step 2
 
@@ -68,7 +67,7 @@ This project is under the MIT license. For full license information, please [cli
 
 ### Step 3
 
-- 🔃 Create a new pull request using <a href="https://github.com/a-mccaffrey/fitness-tracker/compare/" target="_blank">`https://github.com/a-mccaffrey/fitness-tracker/compare/`</a>.
+- 🔃 Create a new pull request using <a href="https://github.com/a-mccaffrey/budget-tracker/compare/" target="_blank">`https://github.com/a-mccaffrey/budget-tracker/compare/`</a>.
 
 
 ## Questions
